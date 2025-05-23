@@ -14,14 +14,16 @@ Users can select an agent to filter the visualized metrics accordingly. The dash
  - **📊 dashboard/**
    - [dashboard-screenshot:](dashboard-screenshot.PNG)      Exported image of the Excel dashboard
 - **📂 excel-files/**
-   - [Sales_Marketing_Call_Center:](Sales_Marketing_Call_Center.xlsm)   Main Excel workbook with analysis and dashboard
-- **📄 README.md**                Project overview and usage
+   - [Sales_Marketing_Call_Center:](Sales_Marketing_Call_Center.rar)   Main Excel workbook with analysis and dashboard
+- **🎥 excel-video/**
+   - [Sales_Marketing_Call_Center:](Sales_Marketing_Call_Center.mp4)   Main Excel workbook with analysis and dashboard
 
+![dashboard-screenshot](https://github.com/user-attachments/assets/4370f729-7cae-46cd-889f-5714c873dd01)
 
 
 ## Data Sources
 
-Sales and Marketing Call Center Data: The primary dataset used in this analysis is the "[Sales_Marketing_Call_Center](Sales_Marketing_Call_Center.xlsm)" file, which contains detailed information about all sales and marketing calls made by the agent.
+Sales and Marketing Call Center Data: The primary dataset used in this analysis is the "[Sales_Marketing_Call_Center](Sales_Marketing_Call_Center.rar)" file, which contains detailed information about all sales and marketing calls made by the agent.
 
 
 
